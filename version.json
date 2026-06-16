@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/srjuniorr/organic-man-ota/releases/download/v1.0.2/bundle.zip",
-  "notes": "Teste OTA: texto do banner da home"
+    "version":  "1.0.4",
+    "url":  "https://github.com/srjuniorr/organic-man-ota/releases/download/v1.0.4/bundle.zip",
+    "notes":  "Teste OTA ao vivo: banner do home muda para confirmar a atualizacao"
 }
