@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/srjuniorr/organic-man-ota/releases/download/v1.0.6/bundle.zip",
-  "notes": "Correcao do aviso (toast) que cortava na tela"
+  "version": "1.0.7",
+  "url": "https://github.com/srjuniorr/organic-man-ota/releases/download/v1.0.7/bundle.zip",
+  "notes": "Endereco/mapa saiu do topo; fica no More"
 }
