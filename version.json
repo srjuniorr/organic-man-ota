@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/srjuniorr/organic-man-ota/releases/download/v1.0.5/bundle.zip",
-  "notes": "Correcao da animacao do carrinho + banner de producao"
+  "version": "1.0.6",
+  "url": "https://github.com/srjuniorr/organic-man-ota/releases/download/v1.0.6/bundle.zip",
+  "notes": "Correcao do aviso (toast) que cortava na tela"
 }
