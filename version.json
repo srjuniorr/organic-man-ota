@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.4",
-    "url":  "https://github.com/srjuniorr/organic-man-ota/releases/download/v1.0.4/bundle.zip",
-    "notes":  "Teste OTA ao vivo: banner do home muda para confirmar a atualizacao"
+  "version": "1.0.5",
+  "url": "https://github.com/srjuniorr/organic-man-ota/releases/download/v1.0.5/bundle.zip",
+  "notes": "Correcao da animacao do carrinho + banner de producao"
 }
